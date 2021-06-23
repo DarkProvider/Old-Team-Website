@@ -1,0 +1,30 @@
+html body {
+
+
+    background-color: rgb(54, 54, 122);
+
+}
+body {
+
+    min-height: 100vh;
+
+}
+
+h1 {
+
+    color: white;
+    text-align: center;
+
+}
+h2 {
+
+    border: 5px;
+    border-radius: 5px;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+
+
+
+
+}
